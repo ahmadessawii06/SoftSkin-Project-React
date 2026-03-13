@@ -25,10 +25,7 @@ https://ahmadessawii06.github.io/Skin-Project-React/
 
 # 🖼 Project Preview
 
-
-```md
 ![Project Preview](./preview.png)
-```
 
 ---
 
