@@ -25,7 +25,6 @@ https://ahmadessawii06.github.io/Skin-Project-React/
 
 # 🖼 Project Preview
 
-> *(You can add a screenshot of the website here)*
 
 ```md
 ![Project Preview](./preview.png)
