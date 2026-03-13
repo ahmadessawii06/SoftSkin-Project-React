@@ -5,7 +5,7 @@ body {
 
 html {
   scroll-behavior: smooth;
-      overflow-x: hidden;
+  overflow-x: hidden;
 }
 
 :root {
@@ -256,7 +256,7 @@ body {
 }
 
 .custom-footer .text-success::after {
-  content: '';
+  content: "";
   position: absolute;
   bottom: -4px;
   left: 0;
@@ -318,13 +318,11 @@ body {
 
 .hero {
   min-height: 85vh;
-   background-image: url("/assets/Banner.jpg");
+  background-image: url("/assets/Banner.jpg");
   background-size: cover;
   background-position: center;
 }
 
-
-.nav-link:hover{
-
+.nav-link:hover {
   text-decoration: underline;
 }
