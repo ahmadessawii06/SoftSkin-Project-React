@@ -19,7 +19,7 @@ The project focuses on building a clean UI while learning how to integrate **Boo
 
 🔗 **Project Demo**
 
-https://ahmadessawii06.github.io/Skin-Project-React/
+https://ahmadessawii06.github.io/SoftSkin-Project-React/
 
 ---
 
