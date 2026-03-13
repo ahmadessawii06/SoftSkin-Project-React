@@ -2,7 +2,7 @@ export default function ProductsTitle() {
   return (
     <section className="position-relative">
       <img
-        src="/assets/Soap_Flavours.jpg"
+        src="./assets/Soap_Flavours.jpg"
         alt="Soap Flavors"
         className="w-100 d-block"
         style={{
@@ -15,7 +15,6 @@ export default function ProductsTitle() {
       <div className="position-absolute top-0 start-0 w-100 pt-5">
         <div className="container pt-3">
           <div className="row">
-
             <div className="col-12 col-lg-4 mb-4 mb-lg-0">
               <h2
                 id="Content_Section"
@@ -31,8 +30,8 @@ export default function ProductsTitle() {
                 className="text-secondary mt-3"
                 style={{ maxWidth: "350px", fontSize: "0.95rem" }}
               >
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                eiusmod tempor incididunt ut labore et dolore magna aliqua.
               </p>
             </div>
 
@@ -93,7 +92,6 @@ export default function ProductsTitle() {
                 </a>
               </div>
             </div>
-
           </div>
         </div>
       </div>

@@ -4,7 +4,7 @@ export default function TwoStorys() {
       <div className="row bg-light-green align-items-center p-4">
         <div className="col-lg-4 text-center">
           <img
-            src="/assets/10_Years_Of_Experience.png"
+            src="./assets/10_Years_Of_Experience.png"
             alt="10 Years Of Experience"
             className="img-fluid pb-5 ps-md-5"
           />
@@ -14,7 +14,7 @@ export default function TwoStorys() {
           <div className="text-start" dir="ltr">
             <div className="d-flex align-items-start mb-4">
               <img
-                src="/assets/Leaf.png"
+                src="./assets/Leaf.png"
                 alt="Leaf"
                 className="me-3"
                 style={{ width: "30px" }}
@@ -27,7 +27,7 @@ export default function TwoStorys() {
 
             <div className="d-flex align-items-start mb-4">
               <img
-                src="/assets/Leaf.png"
+                src="./assets/Leaf.png"
                 alt="Leaf"
                 className="me-3"
                 style={{ width: "30px" }}
@@ -40,7 +40,7 @@ export default function TwoStorys() {
 
             <div className="d-flex align-items-start">
               <img
-                src="/assets/Leaf.png"
+                src="./assets/Leaf.png"
                 alt="Leaf"
                 className="me-3"
                 style={{ width: "30px" }}
@@ -74,7 +74,7 @@ export default function TwoStorys() {
                 <div className="col-md-4 text-center">
                   <img
                     className="img-fluid rounded-circle custom-border mb-3 mb-md-0"
-                    src="/assets/Success_Story_Icon_1.png"
+                    src="./assets/Success_Story_Icon_1.png"
                     alt="Story 1"
                   />
                 </div>
@@ -103,7 +103,7 @@ export default function TwoStorys() {
                 <div className="col-md-4 text-center">
                   <img
                     className="img-fluid rounded-circle custom-border mb-3 mb-md-0"
-                    src="/assets/Success_Story_Icon_2.jpeg"
+                    src="./assets/Success_Story_Icon_2.jpeg"
                   />
                 </div>
                 <div

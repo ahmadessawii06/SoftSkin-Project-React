@@ -6,7 +6,7 @@ export default function CoursesCards() {
           <div className="card h-100 border-0 shadow-sm custom-card">
             <div className="position-relative p-2">
               <img
-                src="/assets/Card_1.png"
+                src="./assets/Card_1.png"
                 className="card-img-top rounded-4"
                 alt="Course"
               />
@@ -17,7 +17,7 @@ export default function CoursesCards() {
             <div className="card-body">
               <div className="d-flex align-items-center mb-3">
                 <img
-                  src="/assets/Instructor.png"
+                  src="./assets/Instructor.png"
                   className="rounded-circle me-2"
                   width="40"
                   height="40"
@@ -52,7 +52,7 @@ export default function CoursesCards() {
           <div className="card h-100 border-0 shadow-sm custom-card">
             <div className="position-relative p-2">
               <img
-                src="/assets/Card_2.png"
+                src="./assets/Card_2.png"
                 className="card-img-top rounded-4"
                 alt="Course"
               />
@@ -60,7 +60,7 @@ export default function CoursesCards() {
             <div className="card-body">
               <div className="d-flex align-items-center mb-3">
                 <img
-                  src="/assets/Instructor.png"
+                  src="./assets/Instructor.png"
                   className="rounded-circle me-2"
                   width="40"
                   height="40"
@@ -99,7 +99,7 @@ export default function CoursesCards() {
           <div className="card h-100 border-0 shadow-sm custom-card">
             <div className="position-relative p-2">
               <img
-                src="/assets/Card_3.png"
+                src="./assets/Card_3.png"
                 className="card-img-top rounded-4"
                 alt="Course"
               />
@@ -107,7 +107,7 @@ export default function CoursesCards() {
             <div className="card-body">
               <div className="d-flex align-items-center mb-3">
                 <img
-                  src="/assets/Instructor.png"
+                  src="./assets/Instructor.png"
                   className="rounded-circle me-2"
                   width="40"
                   height="40"
@@ -143,7 +143,7 @@ export default function CoursesCards() {
           <div className="card h-100 border-0 shadow-sm custom-card">
             <div className="position-relative p-2">
               <img
-                src="/assets/Card_4.png"
+                src="./assets/Card_4.png"
                 className="card-img-top rounded-4"
                 alt="Course"
               />
@@ -151,7 +151,7 @@ export default function CoursesCards() {
             <div className="card-body">
               <div className="d-flex align-items-center mb-3">
                 <img
-                  src="/assets/Instructor.png"
+                  src="./assets/Instructor.png"
                   className="rounded-circle me-2"
                   width="40"
                   height="40"
@@ -186,6 +186,3 @@ export default function CoursesCards() {
     </div>
   );
 }
-
-
-
